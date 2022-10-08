@@ -1,0 +1,111 @@
+.background {
+	background-size: cover;
+	background-color: #696969;
+
+
+}
+
+
+
+.main-heading {
+	flex-direction: row;
+	background-color: black;
+	color: ghostwhite;
+	padding-left: 15px;
+	padding-right: 15px;
+	word-spacing: 10px;
+	justify-content: end;
+}
+ul {
+	color: #blanchedalmond;
+	text-decoration: none;
+	text-align: center;
+
+}
+.heading {
+	color: ghostwhite;
+	font-size: 20px;
+	padding: 15px;
+	border-radius: 15px;
+	background-color: black;
+}
+.header {
+	display: flex;
+	flex-direction: row;
+}
+
+
+
+.list {
+
+	font-size: 25px;
+	margin: 5px;
+	padding: 5px;
+	color: ghostwhite;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+
+
+}
+
+
+.body {
+	
+	text-align: center;
+	font-size: 25px;
+	color: ghostwhite;
+	background-color: black;
+	border-radius: 15px;
+	padding-bottom: 3px;
+}
+
+.fisrt-page-card {
+	border-radius: 15px;
+	display: flex;
+	flex-direction: row;
+}
+
+.cards{
+
+	padding: 25px;
+	justify-content: center;
+	border-radius: 15px;
+	display: flex;
+	flex-direction: row;
+	
+
+}
+
+.card {
+	text-align: center;
+	margin: 5px;
+	padding: 10px;
+	size: 20px;
+	background-color: black;
+	color: ghostwhite;
+	width:  180px;
+	height: 180px;
+	border-color: white;
+	border-radius: 15px;
+	border-width: 5px;
+}
+
+
+.bottom {
+	position: relative;
+	justify-content: center;
+	padding-bottom: 30px;
+}
+
+.form-inside {
+	color: #lightgray;
+
+}
+.bottom-section-bg {
+	color:  #FFFFFF;
+	background-color: black;
+}
+
+
+
